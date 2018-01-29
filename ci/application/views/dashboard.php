@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="assets/css/main.css" rel="stylesheet" type="text/css">
+    <link href="../../assets/css/main.css" rel="stylesheet" type="text/css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <style>
@@ -57,10 +57,10 @@
               <div class="col-md-6 rodape-banner">  
                 <div class="carousel-inner">
                   <div class="item active">
-                    <img src="assets/img/img-1.png" alt=" " class="img-responsive">
+                    <img src="../../assets/img/img-1.png" alt=" " class="img-responsive">
                   </div>
                   <div class="item">
-                    <img src="assets/img/img-2.png" alt=" ">
+                    <img src="../../assets/img/img-2.png" alt=" ">
                   </div>
                 </div>  
               </div>
@@ -154,7 +154,7 @@
     <div class="banner2">
         <div class="row">
           <div class="col-md-6">
-            <img src="assets/img/img-3.png" alt="Los Angeles" class=" img-2 img-responsive">
+            <img src="../../assets/img/img-3.png" alt="Los Angeles" class=" img-2 img-responsive">
             <a href="#" class="btn-primary fale">Fale Conosco</a>
           </div>
           <div class="col-md-4 accordion">  
